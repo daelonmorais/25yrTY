@@ -31,7 +31,7 @@ h1 {
   color: #6ECC34;
   font-family: "Source Sans Pro", sans-serif;
   font-weight:70;
-  font-size: 30px;
+  font-size: 20px;
   /*width:100%*/
   }
 /*Byline*/
@@ -44,6 +44,10 @@ h2 {
   font-size: 25px;
   display:inline;
   /*float:left;*/
+}
+h3 {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 16px;
 }
 /*Footer*/
 .footer{
